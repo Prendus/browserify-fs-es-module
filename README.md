@@ -1,0 +1,1 @@
+# browserify-fs-es-module
